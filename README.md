@@ -32,9 +32,16 @@
 ###
 
 **About Me:**  
-- 🌱 I’m currently learning .NET & Azure
-- 💬 Ask me about .NET & Azure
-- 🎶 Hobbies/Interests: I love memes and listening to different kinds of music
+🌱 DEV: HTML, CSS, Javascript, Typescript, React, VueJS, NextJS, NodeJS, GraphQL.<br>
+🌱 DEV: Laravel, Zend, CI, Yii, Shopify, CMS(WordPress, Joomla, Drupal, Magento).<br>
+🌱 Back End: Python, Djang, Native Java<br>
+🌱 CryptoCurrency: Web3, Solidiy, tokens(ERC20, ERC721, DEFi, DEX, etc)<br>
+🌱 Libraries: React, React-Redux, Vuex/Pinia, Emotion, Styled-components.<br>
+🌱 Databases: PostgresSQL, MongoDB.<br>
+🌱 Deployments: Heroku, Vercel, Netlify, Firebase.<br>
+🌱 Frameworks: Express, NextJS, SCSS, LESS.<br>
+🌱 Tools: Git, NPM, VSCode, WebStorm, Jira, Github Actions.<br>
+🌱 Exploring: Figma, Canva.<br>
 <br>
 
 ###
